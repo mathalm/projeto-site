@@ -10,7 +10,23 @@ body{
 main{
     background-color: white;
     width: 500px;
+    height: max-content;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 3px black;
+}
+img.lado{
+    float: right;
+    width: 100px;
+    height: 100px;
+}
+h1{
+    font-size: 30px;
+    color: rgb(99, 21, 172);
+}
+h2{
+    color: rgb(99, 21, 172);
+}
+a{
+    color: rgb(99, 21, 172) ;
 }
